@@ -21,7 +21,7 @@ sudo apt install -y nodejs npm mongodb git build-essential
 
 # Step 2: Clone Project Repository
 echo "📥 Cloning project repository..."
-git clone https://github.com/username/$PROJECT_NAME.git
+git clone https://github.com/allyelvis/$PROJECT_NAME.git
 cd $PROJECT_NAME
 
 # Step 3: Install Node.js Version Manager (nvm)
